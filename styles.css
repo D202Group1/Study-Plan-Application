@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+}
+
+body{
+    background-image: url("../../Resources/Software\ Process/autumn-boulder-creek-230629.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100% auto;
+}
+
+body{
+    overflow: hidden;
+}
+
+#LoginPage{
+    display: grid;
+    grid-template-rows: 20% 80%;
+}
+
+#HeadSection{
+    border: 1px solid black;
+    background-color: white;
+}
+
+#BodySection{
+    display: grid;
+    grid-template-columns: 70% 30%;
+    grid-auto-rows: 100%;
+}
+
+
+#LoginArea{
+    background-color: rgba(60%, 60%, 60%, 70%);
+    height: 100%;
+}
+
+#LoginForm{
+    color: white;
+    border: 1px solid rgba(60%, 60%, 60%, 90%);
+    margin-top: 25%;
+    margin-bottom: 25%;
+    padding: 100px 0px;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.ToBottom{
+    padding-bottom: 100%;
+}
+
+
+
+#Logo{
+    height: 50px;
+    padding-left: 45%;
+    padding-right: 45%;
+}
+
