@@ -1,5 +1,0 @@
-CREATE DATABASE School   
-    ON (FILENAME = 'C:\users\1491780\Soft_Data.mdf'),   
-    (FILENAME = 'C:\users\1491780\Soft_Log.ldf')   
-    FOR ATTACH;
-GO
