@@ -1,0 +1,17 @@
+E:\University\Year 2\Sem 2\D202 - Software Process\Assignment\Group assignment\jubilant-giggle-master\projectDev\UnitTestProject1\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\University\Year 2\Sem 2\D202 - Software Process\Assignment\Group assignment\jubilant-giggle-master\projectDev\UnitTestProject1\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\University\Year 2\Sem 2\D202 - Software Process\Assignment\Group assignment\jubilant-giggle-master\projectDev\UnitTestProject1\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\University\Year 2\Sem 2\D202 - Software Process\Assignment\Group assignment\jubilant-giggle-master\projectDev\UnitTestProject1\bin\Debug\netcoreapp2.0\UnitTestProject1.deps.json
+E:\University\Year 2\Sem 2\D202 - Software Process\Assignment\Group assignment\jubilant-giggle-master\projectDev\UnitTestProject1\bin\Debug\netcoreapp2.0\UnitTestProject1.runtimeconfig.json
+E:\University\Year 2\Sem 2\D202 - Software Process\Assignment\Group assignment\jubilant-giggle-master\projectDev\UnitTestProject1\bin\Debug\netcoreapp2.0\UnitTestProject1.runtimeconfig.dev.json
+E:\University\Year 2\Sem 2\D202 - Software Process\Assignment\Group assignment\jubilant-giggle-master\projectDev\UnitTestProject1\bin\Debug\netcoreapp2.0\UnitTestProject1.dll
+E:\University\Year 2\Sem 2\D202 - Software Process\Assignment\Group assignment\jubilant-giggle-master\projectDev\UnitTestProject1\bin\Debug\netcoreapp2.0\UnitTestProject1.pdb
+E:\University\Year 2\Sem 2\D202 - Software Process\Assignment\Group assignment\jubilant-giggle-master\projectDev\UnitTestProject1\bin\Debug\netcoreapp2.0\projectDev.dll
+E:\University\Year 2\Sem 2\D202 - Software Process\Assignment\Group assignment\jubilant-giggle-master\projectDev\UnitTestProject1\bin\Debug\netcoreapp2.0\projectDev.pdb
+E:\University\Year 2\Sem 2\D202 - Software Process\Assignment\Group assignment\jubilant-giggle-master\projectDev\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.csprojResolveAssemblyReference.cache
+E:\University\Year 2\Sem 2\D202 - Software Process\Assignment\Group assignment\jubilant-giggle-master\projectDev\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.csproj.CoreCompileInputs.cache
+E:\University\Year 2\Sem 2\D202 - Software Process\Assignment\Group assignment\jubilant-giggle-master\projectDev\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.AssemblyInfoInputs.cache
+E:\University\Year 2\Sem 2\D202 - Software Process\Assignment\Group assignment\jubilant-giggle-master\projectDev\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.AssemblyInfo.cs
+E:\University\Year 2\Sem 2\D202 - Software Process\Assignment\Group assignment\jubilant-giggle-master\projectDev\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.csproj.CopyComplete
+E:\University\Year 2\Sem 2\D202 - Software Process\Assignment\Group assignment\jubilant-giggle-master\projectDev\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.dll
+E:\University\Year 2\Sem 2\D202 - Software Process\Assignment\Group assignment\jubilant-giggle-master\projectDev\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.pdb
